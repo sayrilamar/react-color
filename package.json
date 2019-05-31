@@ -82,7 +82,7 @@
     "react-mark": "0.0.4",
     "react-test-renderer": "^15.3.2",
     "remarkable": "^1.6.0",
-    "require-dir": "^0.3.0",
+    "require-dir": "^1.2.0",
     "rimraf": "^2.5.0",
     "style-loader": "^0.13.0",
     "testdom": "^2.0.0",
