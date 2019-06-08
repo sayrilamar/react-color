@@ -62,7 +62,7 @@
     "chai-spies": "^0.7.1",
     "css-loader": "^0.28.11",
     "enzyme": "3.10.0",
-    "event-stream": "^3.3.1",
+    "event-stream": "^4.0.1",
     "fbjs": "^1.0.0",
     "highlight.js": "^9.3.0",
     "html-loader": "^0.5.5",
